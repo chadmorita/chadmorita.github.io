@@ -6,7 +6,7 @@
     "email": "chadmmm@hawaii.edu",
     "phone": "",
     "website": "https://chadmorita.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "chadmorita", "url": "http://github.com/chadmorita" },
@@ -87,7 +87,7 @@
       "position": "IT Support Specialist",
       "website": "",
       "startDate": "2017-08",
-      "endDate": "2023-12",
+      "endDate": "2022-12",
       "summary": "",
       "highlights": [
       ]
@@ -103,7 +103,5 @@
       "summary": "",
       "highlights": ""
     }
-  ],
-  "awards": "",
-  "references": ""
+  ]
 }
