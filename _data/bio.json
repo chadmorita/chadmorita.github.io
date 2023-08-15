@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Chad Morita",
-    "label": "Instructor",
+    "label": "Lecturer",
     "picture": "https://github.com/chadmorita.png",
     "email": "chadmmm@hawaii.edu",
     "phone": "",
     "website": "https://chadmorita.github.io",
-    "summary": "",
+    "summary": "I am a Lecturer in the <a href='https://www.ics.hawaii.edu'>Information and Computer Sciences Department</a> at the University of Hawaii at Manoa.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "chadmorita", "url": "http://github.com/chadmorita" },
@@ -15,7 +15,8 @@
   },
   "interests": [
     { "name": "Cybersecurity" },
-    { "name": "Networking" }
+    { "name": "Networking" },
+    { "name": "Opearting Systems" }
   ],
   "education": [
     {
@@ -49,13 +50,12 @@
     },
     {
       "company": "University of Hawaii at Manoa Information and Computer Sciences Department",
-      "position": "Instructor",
+      "position": "Lecturer",
       "website": "",
       "startDate": "2023-08",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Currently teaching ICS 314 Software Engineering I",
       "highlights": [
-        "ICS 314 Software Engineering I"
       ]
     },
     {
@@ -64,22 +64,18 @@
       "website": "",
       "startDate": "2021-09",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Teaching certification prep courses in CompTIA A+ and CompTIA Network+.",
       "highlights": [
-        "CompTIA A+",
-        "CompTIA Network+"
       ]
     },
     {
-      "company": "University of Hawaii at Manoa Information and Computer Sciences Department",
+      "company": "University of Hawaii at Manoa Information and Computer Sciences Department.",
       "position": "Teaching Assistant",
       "website": "",
       "startDate": "2019-08",
       "endDate": "2022-07",
-      "summary": "",
+      "summary": "Teaching assistant for ICS 332 Opearting Systems and ICS 451 Data Networks.",
       "highlights": [
-        "ICS 332 Operating Systems",
-        "ICS 451 Data Networks"
       ]
     },
     {
